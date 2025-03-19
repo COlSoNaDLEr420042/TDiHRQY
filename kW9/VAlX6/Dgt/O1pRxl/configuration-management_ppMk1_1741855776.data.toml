@@ -14,7 +14,6 @@ serialize = [
     "{major}.{minor}.{patch}-{pre}{pre_n}",
     "{major}.{minor}.{patch}",
 ]
-search = "{current_version}"
 replace = "{new_version}"
 regex = false
 ignore_missing_version = false
