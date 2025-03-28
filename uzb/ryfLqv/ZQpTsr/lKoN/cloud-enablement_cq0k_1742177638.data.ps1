@@ -18,7 +18,6 @@
                                      *#############///                 
                                          ##########///                 
                                             ######(*                   
-                                                           
                            
                                        
                     ~Parsec Self Hosted Cloud Setup Script~
