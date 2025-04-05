@@ -47,7 +47,6 @@
                     Paperspace P4000  (Quadro P4000)
                     Paperspace P5000  (Quadro P5000)
                     Google P100 VW    (Tesla P100 Virtual Workstation)
-                    Google P4  VW    (Tesla P4 Virtual Workstation)
                     Google T4  VW    (Tesla T4 Virtual Workstation)
     
 "                                         
