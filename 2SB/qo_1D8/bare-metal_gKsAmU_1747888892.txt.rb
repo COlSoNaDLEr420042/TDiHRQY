@@ -182,7 +182,6 @@ pg_auto_validate_enums
 pg_eager_any_typed_array
 require_valid_schema
 serialization
-singular_table_names
 static_cache
 static_cache_cache
 subclasses
