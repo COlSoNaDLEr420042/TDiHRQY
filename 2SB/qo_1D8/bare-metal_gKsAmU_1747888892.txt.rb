@@ -76,7 +76,6 @@ rspec/matchers/built_in/count_expectation
 rspec/matchers/built_in/equal
 rspec/matchers/built_in/exist
 rspec/matchers/built_in/has
-rspec/matchers/built_in/include
 rspec/matchers/built_in/match
 rspec/matchers/built_in/output
 rspec/matchers/built_in/raise_error
